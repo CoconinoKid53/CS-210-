@@ -4,7 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.Write("what is your first name? ");
+        Console.class:("Journal entry")
+        print("write new journal entry")
+
+        {
+            
+        }(" ");
         string firstName = Console.ReadLine();
 
         Console.WriteLine("What is your last name? ");

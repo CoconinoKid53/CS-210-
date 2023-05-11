@@ -6,4 +6,16 @@ class Program
     {
         Console.WriteLine("Hello Develop02 World!");
     }
+    class New Journal Entry = ("Option1 writing a journal entry") ;
+    if ("true");
+    write new Journal Entry();
+    if ("false");
+
+
+
+
+    {
+        
+    }
+
 }
