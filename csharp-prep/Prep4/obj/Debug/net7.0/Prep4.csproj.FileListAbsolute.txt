@@ -1,0 +1,15 @@
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\bin\Debug\net7.0\Prep4.exe
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\bin\Debug\net7.0\Prep4.deps.json
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\bin\Debug\net7.0\Prep4.runtimeconfig.json
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\bin\Debug\net7.0\Prep4.dll
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\bin\Debug\net7.0\Prep4.pdb
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\obj\Debug\net7.0\Prep4.csproj.AssemblyReference.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\obj\Debug\net7.0\Prep4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\obj\Debug\net7.0\Prep4.AssemblyInfoInputs.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\obj\Debug\net7.0\Prep4.AssemblyInfo.cs
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\obj\Debug\net7.0\Prep4.csproj.CoreCompileInputs.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\obj\Debug\net7.0\Prep4.dll
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\obj\Debug\net7.0\refint\Prep4.dll
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\obj\Debug\net7.0\Prep4.pdb
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\obj\Debug\net7.0\Prep4.genruntimeconfig.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep4\obj\Debug\net7.0\ref\Prep4.dll

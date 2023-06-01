@@ -1,0 +1,5 @@
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\prepare\Learning02\obj\Debug\net7.0\Learning02.csproj.AssemblyReference.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\prepare\Learning02\obj\Debug\net7.0\Learning02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\prepare\Learning02\obj\Debug\net7.0\Learning02.AssemblyInfoInputs.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\prepare\Learning02\obj\Debug\net7.0\Learning02.AssemblyInfo.cs
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\prepare\Learning02\obj\Debug\net7.0\Learning02.csproj.CoreCompileInputs.cache

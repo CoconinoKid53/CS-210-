@@ -1,0 +1,5 @@
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep3\obj\Debug\net7.0\Prep3.csproj.AssemblyReference.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep3\obj\Debug\net7.0\Prep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep3\obj\Debug\net7.0\Prep3.AssemblyInfoInputs.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep3\obj\Debug\net7.0\Prep3.AssemblyInfo.cs
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\csharp-prep\Prep3\obj\Debug\net7.0\Prep3.csproj.CoreCompileInputs.cache
