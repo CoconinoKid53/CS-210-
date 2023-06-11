@@ -1,0 +1,22 @@
+june 5th
+* Terminal naviagate to proper folder by bringing in 
+intergrated terminal or command line than type cd change direction and the place where the file is
+* Compiler is a translator which translates the high level language an translates to binary.
+* Main is an entry and only function that it will call and nothing happens unless main tells it to.
+* In order to call a function in a different class we must create an obect of the class were trying to use.
+// its like getting the phone number to a company so that we can place an orer to it
+
+* // Header functions 
+* scope : public or private, Public is classes can shar and link other variables to other classes. Private is 
+    isolated from other classes.
+* Returntype the type is returning wether it be void, bool, int or float as well string.
+* Name is the name of the function that is arbitrary ()  {
+        
+    }
+
+June 6, 2023
+* Static void main is the entry point of our program and is what get called when the program is runned
+* the main is like the director in the movie meaning that anything not in the curly braces nothing will run.
+* two steps to call a function
+    * 1. get the container the function is located in the name of the class must create AN object.
+     * 2. call the function
