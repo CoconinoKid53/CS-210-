@@ -22,11 +22,11 @@ class ClassMenu {
         }
         if (activity == "2") {
             var reflecting = new Reflecting();
-            reflecting.RefelctingActvity();
+            reflecting.do_activity();
         }
         if (activity == "3") {
             var listing = new Listing ();
-            listing.ListingActivity();
+            listing.do_activity();
 
         }
         }

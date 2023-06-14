@@ -25,10 +25,13 @@ class Reflecting : Activity{
     }
     public void do_activity () {
         
-
+        Random prompt = new Random ();
+        int secondprompt = prompt.Next(4);
+        Console.WriteLine(prompts[secondprompt] );
+        string input = Console.ReadLine();
 
     }
-    DateTime = "ADDseconds"
+    //DateTime = "ADDseconds"
 
     // step two : display breathe in and wait for a period and 
     // write a function diplay_instruction
@@ -47,13 +50,15 @@ class Reflecting : Activity{
         int ReflectingDuration = 6;
         int ReflectionDuration = 6;
          DateTime StartTime = DateTime.Now;
-        DateTime FutureTime = StartTime.ADDSeconds (duration);
-          While (FutureTime>DateTime.Now) {
+        DateTime FutureTime = StartTime.AddSeconds (duration);
+          while (FutureTime>DateTime.Now) {
             Console.WriteLine("Breathe In");
         Countdown(ReflectingDuration);
 
-        Console.WriteLine("Breathe Out");
+        Console.WriteLine("Reflect");
         Countdown(ReflectingDuration);
+        Console.WriteLine ("thank you for particpating the reflecting activity");
+        
           }
     }
 }

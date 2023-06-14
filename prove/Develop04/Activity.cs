@@ -42,5 +42,17 @@ class Activity{
             Console.Write("\b \b");
         }
     }
+    public void Countdown(int duration) {
+        int currentValue = duration; 
+        
+        while (currentValue > 0) {
+            Console.WriteLine (currentValue);
+            Thread.Sleep(1000);
+            currentValue--;
+
+        }
+        currentValue--;
+
+        }
    
 }

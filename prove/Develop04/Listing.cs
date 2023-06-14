@@ -21,25 +21,34 @@ class Listing : Activity{
 
 
         // Steps for listing activity
-        public void ListingActvity() {
-        int duration = 12;
-        int ReflectingDuration = 6;
-        int ListingDuration = 6;
-         DateTime StartTime = DateTime.Now;
-        DateTime FutureTime = StartTime.ADDSeconds (duration);
-          While (FutureTime>DateTime.Now) {
-            Console.WriteLine("Breathe In");
-        Countdown(ReflectingDuration);
-
-        Console.WriteLine("Breathe Out");
-        Countdown(ReflectingDuration);
-          }
-        
-    
-
+      
     }
     public void ListingActivity () {
 
     }
-}
+      public void ListingActvity() {
+        int duration = 6;
+        int ListingDuration = 6;
+       
+         DateTime StartTime = DateTime.Now;
+        DateTime FutureTime = StartTime.AddSeconds(duration);
+          while (FutureTime>DateTime.Now) {
+            Console.WriteLine("Listing");
+        Countdown(ListingDuration);
 
+        Console.WriteLine("Listing");
+        Countdown(ListingDuration);
+          }        
+
+    }
+    public void do_activity () {
+        
+        Random prompt = new Random ();
+        int secondprompt = prompt.Next(4);
+        Console.WriteLine(prompts[secondprompt] );
+        string input = Console.ReadLine ();
+        Console.WriteLine ("thank you for particpating the listing activity");
+
+    }
+   
+}
