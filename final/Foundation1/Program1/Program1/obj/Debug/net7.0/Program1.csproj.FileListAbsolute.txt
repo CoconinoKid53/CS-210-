@@ -1,0 +1,30 @@
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\bin\Debug\net7.0\Program1.exe
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\bin\Debug\net7.0\Program1.deps.json
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\bin\Debug\net7.0\Program1.runtimeconfig.json
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\bin\Debug\net7.0\Program1.dll
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\bin\Debug\net7.0\Program1.pdb
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\obj\Debug\net7.0\Program1.csproj.AssemblyReference.cache
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\obj\Debug\net7.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\obj\Debug\net7.0\Program1.AssemblyInfoInputs.cache
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\obj\Debug\net7.0\Program1.AssemblyInfo.cs
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\obj\Debug\net7.0\Program1.csproj.CoreCompileInputs.cache
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\obj\Debug\net7.0\Program1.dll
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\obj\Debug\net7.0\refint\Program1.dll
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\obj\Debug\net7.0\Program1.pdb
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\obj\Debug\net7.0\Program1.genruntimeconfig.cache
+C:\Users\alexl\OneDrive\Documents\Code\Dillon's Code\Program1\obj\Debug\net7.0\ref\Program1.dll
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\bin\Debug\net7.0\Program1.exe
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\bin\Debug\net7.0\Program1.deps.json
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\bin\Debug\net7.0\Program1.runtimeconfig.json
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\bin\Debug\net7.0\Program1.dll
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\bin\Debug\net7.0\Program1.pdb
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\obj\Debug\net7.0\Program1.csproj.AssemblyReference.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\obj\Debug\net7.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\obj\Debug\net7.0\Program1.AssemblyInfoInputs.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\obj\Debug\net7.0\Program1.AssemblyInfo.cs
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\obj\Debug\net7.0\Program1.csproj.CoreCompileInputs.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\obj\Debug\net7.0\Program1.dll
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\obj\Debug\net7.0\refint\Program1.dll
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\obj\Debug\net7.0\Program1.pdb
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\obj\Debug\net7.0\Program1.genruntimeconfig.cache
+C:\Users\bigdg\OneDrive\Desktop\CS-210-\final\Foundation1\Program1\Program1\obj\Debug\net7.0\ref\Program1.dll
